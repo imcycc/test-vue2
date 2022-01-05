@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import B from './TestChildRender1.vue'
+import B from './B.vue'
 
 export default {
   components: {
